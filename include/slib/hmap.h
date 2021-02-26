@@ -14,8 +14,8 @@
  * limitations under the License.
  */
 
-#ifndef OPENLIBC_HMAP_H
-#define OPENLIBC_HMAP_H 1
+#ifndef SLIB_HMAP_H
+#define SLIB_HMAP_H 1
 
 #include <stdbool.h>
 #include <stdlib.h>

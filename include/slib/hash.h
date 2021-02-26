@@ -1,5 +1,5 @@
-#ifndef HASH_H
-#define HASH_H 1
+#ifndef SLIB_HASH_H
+#define SLIB_HASH_H 1
 
 #include <stdbool.h>
 #include <stddef.h>

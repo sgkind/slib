@@ -1,5 +1,5 @@
-#ifndef DYNAMIC_STRING_H
-#define DYNAMIC_STRING_H 1
+#ifndef SLIB_DYNAMIC_STRING_H
+#define SLIB_DYNAMIC_STRING_H 1
 
 #include <stdarg.h>
 #include <stdbool.h>

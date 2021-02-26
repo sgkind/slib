@@ -1,5 +1,5 @@
-#ifndef SSET_H
-#define SSET_H
+#ifndef SLIB_SSET_H
+#define SLIB_SSET_H 1
 
 #include "slib/hmap.h"
 #include "util.h"

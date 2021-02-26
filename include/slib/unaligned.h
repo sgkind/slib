@@ -1,5 +1,5 @@
-#ifndef UNALIGNED_H
-#define UNALIGNED_H 1
+#ifndef SLIB_UNALIGNED_H
+#define SLIB_UNALIGNED_H 1
 
 /* uint64_t get_unaligned_u64(uint64_t *p);
  *

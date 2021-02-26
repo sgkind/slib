@@ -1,5 +1,5 @@
-#ifndef SVEC_H
-#define SVEC_H 1
+#ifndef SLIB_SVEC_H
+#define SLIB_SVEC_H 1
 
 #include <stdbool.h>
 #include <stddef.h>

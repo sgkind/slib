@@ -1,5 +1,5 @@
-#ifndef SHASH_H
-#define SHASH_H 1
+#ifndef SLIB_SHASH_H
+#define SLIB_SHASH_H 1
 
 #include "slib/hmap.h"
 #include "util.h"
